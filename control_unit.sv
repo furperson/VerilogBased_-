@@ -1,4 +1,4 @@
-module top (
+module control_unit (
     ports
 );
     
